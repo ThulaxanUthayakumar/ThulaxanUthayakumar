@@ -44,18 +44,15 @@
 
 ---
 
+<!-- CONTACT ANIMATION -->
 ## 📫 Contact
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=18&duration=3000&pause=1000&color=EA4335&center=true&vCenter=true&width=500&lines=Let’s+Connect!;Open+for+Opportunities;Feel+Free+to+Reach+Out" />
+</p>
 
 <p align="center">
-  <a href="mailto:thulaxanuthayakumar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-thulaxanuthayakumar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://thulax.online">
-    <img src="https://img.shields.io/badge/Portfolio-thulax.online-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/thulaxan">
-    <img src="https://img.shields.io/badge/LinkedIn-thulaxan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+📧 <b>thulaxanuthayakumar@gmail.com</b> <br/>
+📍 Sri Lanka
 </p>
 
 ---
