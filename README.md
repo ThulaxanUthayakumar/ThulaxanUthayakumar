@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=22&duration=2500&pause=1000&color=1E3A8A&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%7C+.NET+Developer;Building+Scalable+Web+Applications" />
 </p>
 
-<!-- CONTACT BUTTONS -->
+<!-- BUTTONS -->
 <p align="center">
   <a href="https://thulax.online">
     <img src="https://img.shields.io/badge/Portfolio-thulax.online-1E3A8A?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -24,47 +24,40 @@
 
 ---
 
+<!-- ABOUT ANIMATION -->
 ## 👨‍💻 About Me
-
-Associate Software Engineer with experience in full-stack web development and modern application design.  
-Focused on building scalable, efficient, and user-centric solutions using MERN and .NET technologies.  
-Committed to clean code practices, performance optimization, and continuous professional growth.
-
----
-
-## 🛠️ Technical Skills
-
-**Languages**  
-C# • JavaScript • SQL • HTML • CSS  
-
-**Frameworks & Technologies**  
-ASP.NET Core • .NET • React • Node.js • Express • Laravel • Tailwind CSS  
-
-**Databases**  
-SQL Server • MongoDB • Firebase  
-
-**Tools & Platforms**  
-Git • GitHub • AWS • Azure • WordPress • Figma  
-
----
-
-## 🌐 Portfolio
-
 <p align="center">
-  <a href="https://thulax.online">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-thulax.online-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=20&duration=3000&pause=1000&color=0F172A&center=true&vCenter=true&width=700&lines=Associate+Software+Engineer+with+Full+Stack+Experience;Focused+on+Scalable+and+Efficient+Applications;Passionate+about+Clean+Code+and+Performance" />
 </p>
 
 ---
 
-## 📫 Contact
+<!-- TECH STACK ANIMATION -->
+## 🛠️ Technical Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,nodejs,express,laravel,html,css,tailwind,mongodb,mysql,git,github,aws,azure&perline=8" />
+</p>
 
 <p align="center">
-📧 thulaxanuthayakumar@gmail.com <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=18&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=600&lines=C%23+%7C+JavaScript+%7C+SQL;ASP.NET+Core+%7C+React+%7C+Node.js;MongoDB+%7C+SQL+Server+%7C+Azure+%7C+AWS" />
+</p>
+
+---
+
+<!-- CONTACT ANIMATION -->
+## 📫 Contact
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=18&duration=3000&pause=1000&color=EA4335&center=true&vCenter=true&width=500&lines=Let’s+Connect!;Open+for+Opportunities;Feel+Free+to+Reach+Out" />
+</p>
+
+<p align="center">
+📧 <b>thulaxanuthayakumar@gmail.com</b> <br/>
 📍 Sri Lanka
 </p>
 
+---
+
+<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1E3A8A&height=100&section=footer"/>
 </p>
