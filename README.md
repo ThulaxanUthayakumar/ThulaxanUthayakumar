@@ -1,63 +1,128 @@
-<!-- HEADER -->
+<h1 align="center">Hello 👋, I'm Thulaxan Uthayakumar</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:38BDF8&height=180&section=header&text=Thulaxan%20Uthayakumar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Full%20Stack%20Developer&fontSize=40&color=0:00c6ff,100:0072ff&fontColor=ffffff" />
 </p>
 
-<h2 align="center">Associate Software Engineer | Full Stack Developer</h2>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=22&duration=2500&pause=1000&color=1E3A8A&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%7C+.NET+Developer;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Associate+Software+Engineer;MERN+Stack+Developer;Laravel+Developer;React+Enthusiast;Problem+Solver;&center=true&width=600&height=50">
 </p>
 
-<!-- BUTTONS -->
+---
+
+## 🙋‍♂️ About Me
+
+- 💼 **Associate Software Engineer** at **HABB**
+- 🚀 1+ Year Experience in **Full Stack Development**
+- 💻 **MERN | Laravel | WordPress | .NET**
+- ⚡ Building scalable & user-friendly applications
+- 📍 Vavuniya, Sri Lanka 🇱🇰
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
-  <a href="https://thulax.online">
-    <img src="https://img.shields.io/badge/Portfolio-thulax.online-1E3A8A?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,php,laravel,dotnet,mysql,js,html,css,tailwind,aws,azure,figma,git,github,angular" />
+</p>
+
+---
+
+## 💼 Work Experience
+
+### 🏢 HABB  
+**Associate Software Engineer | Full-time** 📍 Jaffna, Northern Province, Sri Lanka (Hybrid)  
+🗓 Jan 2025 – Present  
+
+- Developed enterprise applications using **.NET Framework** and **React.js** - Built scalable and user-friendly software solutions  
+- Collaborated with cross-functional teams to enhance **performance** and **UX** - Contributed to production-level features and system enhancements  
+
+📧 *thulax@habblanka.com | thulax@habb.lk*
+
+### 💻 EWIS Career Training (Pvt) Ltd  
+**Software Engineer Intern** 📍 Colombo, Western Province, Sri Lanka  
+🗓 Feb 2023 – Oct 2023  
+
+- Contributed to **full-stack development** and system optimization  
+- Developed solutions to improve **efficiency and usability** - **Key projects:** ECTC Lecture Payment System, ECTC HRM System, CCL Academy HND Portal  
+
+📧 *thulaxanu@ewisl.net*
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3>🚗 Car Rental System</h3>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="100%" /></p>
+<p><b>MERN Stack</b> application featuring secure authentication and a robust booking system.</p>
+<p align="center"><a href="https://github.com/ThulaxanUthayakumar"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/></a></p>
+</td>
+<td width="50%">
+<h3>📚 BookPulse - Online Shop</h3>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="100%" /></p>
+<p>E-commerce platform built with <b>ASP.NET 8</b> and SQL, featuring full CRUD and user management.</p>
+<p align="center"><a href="https://github.com/ThulaxanUthayakumar/BookPulse"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>🏢 ERP System</h3>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="100%" /></p>
+<p>Scalable HR, Finance, and Inventory management system using <b>REST API</b> architecture.</p>
+<p align="center"><a href="https://github.com/ThulaxanUthayakumar"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/></a></p>
+</td>
+<td width="50%">
+<h3>🧠 Tamil NLP System</h3>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="100%" /></p>
+<p>Grammar and spelling correction tool using <b>TensorFlow</b> based NLP for the Tamil language.</p>
+<p align="center"><a href="https://github.com/ThulaxanUthayakumar"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/></a></p>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📈 Profile Analytics
+
+<p align="center">
+  <b>Profile Views</b> <br/>
+  <img src="https://komarev.com/ghpvc/?username=ThulaxanUthayakumar&label=Profile%20Views&color=0e75b6&style=flat" alt="Thulaxan Uthayakumar" />
+</p>
+
+<h3 align="center">🌍 Visitors by Country</h3>
+<p align="center">
+  <a href="https://github.com/ThulaxanUthayakumar">
+    <img src="https://s11.flagcounter.com/map/93Zx/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0">
   </a>
-  <a href="mailto:thulaxanuthayakumar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/thulaxan">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-<!-- ABOUT ANIMATION -->
-## 👨‍💻 About Me
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=20&duration=3000&pause=1000&color=0F172A&center=true&vCenter=true&width=700&lines=Associate+Software+Engineer+with+Full+Stack+Experience;Focused+on+Scalable+and+Efficient+Applications;Passionate+about+Clean+Code+and+Performance" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<!-- TECH STACK ANIMATION -->
-## 🛠️ Technical Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,nodejs,express,laravel,html,css,tailwind,mongodb,mysql,git,github,aws,azure&perline=8" />
-</p>
+## 📫 Connect With Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=18&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=600&lines=C%23+%7C+JavaScript+%7C+SQL;ASP.NET+Core+%7C+React+%7C+Node.js;MongoDB+%7C+SQL+Server+%7C+Azure+%7C+AWS" />
-</p>
-
----
-
-<!-- CONTACT ANIMATION -->
-## 📫 Contact
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=18&duration=3000&pause=1000&color=EA4335&center=true&vCenter=true&width=500&lines=Let’s+Connect!;Open+for+Opportunities;Feel+Free+to+Reach+Out" />
-</p>
-
-<p align="center">
-📧 <b>thulaxanuthayakumar@gmail.com</b> <br/>
-📍 Sri Lanka
+  <a href="mailto:thulaxanuthayakumar@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/thulaxan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/ThulaxanUthayakumar"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
 </p>
 
 ---
 
-<!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1E3A8A&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00c6ff&section=footer" width="100%"/>
 </p>
+
+<p align="center">💙 Thanks for visiting my profile! Feel free to star ⭐ my repositories!</p>
