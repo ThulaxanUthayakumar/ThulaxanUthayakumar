@@ -59,7 +59,7 @@
 <h3>🚗 Car Rental System</h3>
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="100%" /></p>
 <p><b>MERN Stack</b> application featuring secure authentication and a robust booking system.</p>
-<p align="center"><a href="https://github.com/ThulaxanUthayakumar"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/></a></p>
+<p align="center"><a href="https://github.com/ThulaxanUthayakumar/Car-Rental-System.git"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/></a></p>
 </td>
 <td width="50%">
 <h3>📚 BookPulse - Online Shop</h3>
