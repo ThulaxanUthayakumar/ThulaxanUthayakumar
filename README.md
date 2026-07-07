@@ -16,7 +16,7 @@
 - 🚀 1+ Year Experience in **Full Stack Development**
 - 💻 **MERN | Laravel | WordPress | .NET**
 - ⚡ Building scalable & user-friendly applications
-- 📍 Vavuniya, Sri Lanka 🇱🇰
+- 📍 Colombo, Sri Lanka 🇱🇰
 
 ---
 
